@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tarunts10/dsa-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tarunts10/dsa-solutions/tree/master/0009-palindrome-number) |
 | [3870-count-commas-in-range](https://github.com/tarunts10/dsa-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/tarunts10/dsa-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
 | ------- |
