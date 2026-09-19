@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tarunts10/dsa-solutions/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/tarunts10/dsa-solutions/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/tarunts10/dsa-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tarunts10/dsa-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/tarunts10/dsa-solutions/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/tarunts10/dsa-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tarunts10/dsa-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tarunts10/dsa-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tarunts10/dsa-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Sliding Window
 |  |
 | ------- |
