@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/tarunts10/dsa-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tarunts10/dsa-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
