@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tarunts10/dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunts10/dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tarunts10/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tarunts10/dsa-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/tarunts10/dsa-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tarunts10/dsa-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/tarunts10/dsa-solutions/tree/master/1922-count-good-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tarunts10/dsa-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/tarunts10/dsa-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tarunts10/dsa-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## String
