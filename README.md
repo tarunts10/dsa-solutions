@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/tarunts10/dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunts10/dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunts10/dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/tarunts10/dsa-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tarunts10/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tarunts10/dsa-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/tarunts10/dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunts10/dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunts10/dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/tarunts10/dsa-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Simulation
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/tarunts10/dsa-solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/tarunts10/dsa-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/tarunts10/dsa-solutions/tree/master/0182-duplicate-emails) |
+## Matrix
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/tarunts10/dsa-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
