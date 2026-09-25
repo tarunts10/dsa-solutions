@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tarunts10/dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0152-maximum-product-subarray](https://github.com/tarunts10/dsa-solutions/tree/master/0152-maximum-product-subarray) |
 | [0904-fruit-into-baskets](https://github.com/tarunts10/dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tarunts10/dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunts10/dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/tarunts10/dsa-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/tarunts10/dsa-solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
