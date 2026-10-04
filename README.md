@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunts10/dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/tarunts10/dsa-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0678-valid-parenthesis-string](https://github.com/tarunts10/dsa-solutions/tree/master/0678-valid-parenthesis-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/tarunts10/dsa-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -117,4 +118,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/tarunts10/dsa-solutions/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/tarunts10/dsa-solutions/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/tarunts10/dsa-solutions/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/tarunts10/dsa-solutions/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/tarunts10/dsa-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
