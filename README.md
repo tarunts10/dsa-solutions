@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/tarunts10/dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tarunts10/dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunts10/dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tarunts10/dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunts10/dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/tarunts10/dsa-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tarunts10/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tarunts10/dsa-solutions/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/tarunts10/dsa-solutions/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/tarunts10/dsa-solutions/tree/master/0836-rectangle-overlap) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tarunts10/dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tarunts10/dsa-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/tarunts10/dsa-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/tarunts10/dsa-solutions/tree/master/1922-count-good-numbers) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tarunts10/dsa-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0904-fruit-into-baskets](https://github.com/tarunts10/dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tarunts10/dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tarunts10/dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tarunts10/dsa-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tarunts10/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/tarunts10/dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tarunts10/dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunts10/dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tarunts10/dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tarunts10/dsa-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunts10/dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/tarunts10/dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunts10/dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tarunts10/dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunts10/dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/tarunts10/dsa-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Simulation
