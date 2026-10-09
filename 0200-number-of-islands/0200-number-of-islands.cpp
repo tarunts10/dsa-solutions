@@ -54,7 +54,7 @@ public:
         int n=grid.size();
         int m=grid[0].size();
 
-        /*vector<vector<int>> vis(n,vector<int> (m,0));
+        vector<vector<int>> vis(n,vector<int> (m,0));
         int cnt=0;
 
         for(int i=0;i<n;i++){
@@ -66,8 +66,10 @@ public:
             }
         }
 
-        return cnt;*/
+        return cnt;
 
+        /*
+        //BFS
         vector<vector<int>> vis(n,vector<int> (m,0));
         int cnt=0;
         for(int i=0;i<n;i++){
@@ -78,7 +80,7 @@ public:
                 }
             }
         }
-        return cnt;
+        return cnt;*/
 
     }
 };
