@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tarunts10/dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0152-maximum-product-subarray](https://github.com/tarunts10/dsa-solutions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/tarunts10/dsa-solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/tarunts10/dsa-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tarunts10/dsa-solutions/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/tarunts10/dsa-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tarunts10/dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tarunts10/dsa-solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/tarunts10/dsa-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tarunts10/dsa-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tarunts10/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tarunts10/dsa-solutions/tree/master/1020-number-of-enclaves) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/tarunts10/dsa-solutions/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/tarunts10/dsa-solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/tarunts10/dsa-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tarunts10/dsa-solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/tarunts10/dsa-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tarunts10/dsa-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/tarunts10/dsa-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tarunts10/dsa-solutions/tree/master/0994-rotting-oranges) |
