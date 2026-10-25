@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tarunts10/dsa-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/tarunts10/dsa-solutions/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tarunts10/dsa-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/tarunts10/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunts10/dsa-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunts10/dsa-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/tarunts10/dsa-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tarunts10/dsa-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tarunts10/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tarunts10/dsa-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/tarunts10/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/tarunts10/dsa-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Dynamic Programming
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tarunts10/dsa-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/tarunts10/dsa-solutions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/tarunts10/dsa-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/tarunts10/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -178,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tarunts10/dsa-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tarunts10/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tarunts10/dsa-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/tarunts10/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tarunts10/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tarunts10/dsa-solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/tarunts10/dsa-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/tarunts10/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
