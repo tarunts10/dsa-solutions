@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tarunts10/dsa-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tarunts10/dsa-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tarunts10/dsa-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tarunts10/dsa-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/tarunts10/dsa-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/tarunts10/dsa-solutions/tree/master/1922-count-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tarunts10/dsa-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tarunts10/dsa-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/tarunts10/dsa-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tarunts10/dsa-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## String
